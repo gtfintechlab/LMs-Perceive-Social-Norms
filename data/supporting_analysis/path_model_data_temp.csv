@@ -1,0 +1,12 @@
+path,model,date,temp
+../data/llm_prompt_outputs/rot/dbrx-instruct_11_08_2024_60_t0_00_r1_a0_d0.csv,dbrx-instruct,11_08_2024,0
+../data/llm_prompt_outputs/rot/gemini-1.0-pro-001_11_08_2024_255_t0_00_r1_a0_d0.csv,gemini-1.0-pro-001,11_08_2024,0
+../data/llm_prompt_outputs/rot/gemini-1.5-pro-001_11_08_2024_134_t0_00_r1_a0_d0.csv,gemini-1.5-pro-001,11_08_2024,0
+../data/llm_prompt_outputs/rot/gpt-3.5-turbo-0613_11_08_2024_41_t0_00_r1_a0_d0.csv,gpt-3.5-turbo-0613,11_08_2024,0
+../data/llm_prompt_outputs/rot/gpt-4-turbo-2024-04-09_11_08_2024_49_t0_00_r1_a0_d0.csv,gpt-4-turbo-2024-04-09,11_08_2024,0
+../data/llm_prompt_outputs/rot/gpt-4o-2024-08-06_11_08_2024_36_t0_00_r1_a0_d0.csv,gpt-4o-2024-08-06,11_08_2024,0
+../data/llm_prompt_outputs/rot/Meta-Llama-3.1-405B-Instruct-Turbo_12_08_2024_117_t0_00_r1_a0_d0.csv,Meta-Llama-3.1-405B-Instruct-Turbo,12_08_2024,0
+../data/llm_prompt_outputs/rot/Meta-Llama-3.1-70B-Instruct-Turbo_12_08_2024_86_t0_00_r1_a0_d0.csv,Meta-Llama-3.1-70B-Instruct-Turbo,12_08_2024,0
+../data/llm_prompt_outputs/rot/Meta-Llama-3.1-8B-Instruct-Turbo_11_08_2024_38_t0_00_r1_a0_d0.csv,Meta-Llama-3.1-8B-Instruct-Turbo,11_08_2024,0
+../data/llm_prompt_outputs/rot/Mixtral-8x22B-Instruct-v0.1_12_08_2024_56_t0_00_r1_a0_d0.csv,Mixtral-8x22B-Instruct-v0.1,12_08_2024,0
+../data/llm_prompt_outputs/rot/snowflake-arctic-instruct_12_08_2024_41_t0_00_r1_a0_d0.csv,snowflake-arctic-instruct,12_08_2024,0

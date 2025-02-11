@@ -24,7 +24,7 @@ conda env create --file environment.yml
 The prompt outputs are located in `data/llm_prompt_outputs/rot`.
 
 ### Social Chemistry 101 Dataset
-In this work, we utilize the [Social Chemistry 101 Dataset](https://github.com/mbforbes/social-chemistry-101), a learn-to-reason dataset on social and moral norms.
+In this work, we utilize the Social Chemistry 101 Dataset, a learn-to-reason dataset on social and moral norms.
 Following prior work, we also obtained the dataset's demographic information by contacting the dataset’s creators. This was used for our analysis. If you want that information, please contact the authors of Social Chemistry 101.
 
 ## Cite

@@ -1,8 +1,5 @@
 # LMs-Perceive-Social-Norms
-In this work, we investigate how inclusively LMs perceive norms across demographic groups (e.g., gender, age, and income). We prompt 11 LMs on rules-of-thumb (RoTs) and compare how their outputs align with the existing responses of 100 human annotators from the [Social Chemistry 101 Dataset](https://github.com/mbforbes/social-chemistry-101).
-
-## Overview
-This repository contains the Jupyter Notebooks, prompts, and prompt outputs for the NAACL 2025 Findings paper "How Inclusively do LMs Perceive Social and Moral Norms?"
+This repository contains the Jupyter Notebooks, prompts, and prompt outputs for the NAACL 2025 Findings paper "How Inclusively do LMs Perceive Social and Moral Norms?" In this work, we investigate how inclusively LMs perceive norms across demographic groups (e.g., gender, age, and income). We prompt 11 LMs on rules-of-thumb (RoTs) and compare how their outputs align with the existing responses of 100 human annotators from the [Social Chemistry 101 Dataset](https://github.com/mbforbes/social-chemistry-101).
 
 ## Code
 The Jupyter Notebooks are located in `scripts`.
